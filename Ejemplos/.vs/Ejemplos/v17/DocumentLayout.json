@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yadir\\proyectos\\Angular-en-net\\Ejemplos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F778B51A-592B-4E8F-B039-D6C98F5F4731}|Ejemplos.csproj|c:\\users\\yadir\\proyectos\\angular-en-net\\ejemplos\\desafios\\desafio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F778B51A-592B-4E8F-B039-D6C98F5F4731}|Ejemplos.csproj|solutionrelative:desafios\\desafio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F778B51A-592B-4E8F-B039-D6C98F5F4731}|Ejemplos.csproj|c:\\users\\yadir\\proyectos\\angular-en-net\\ejemplos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F778B51A-592B-4E8F-B039-D6C98F5F4731}|Ejemplos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F778B51A-592B-4E8F-B039-D6C98F5F4731}|Ejemplos.csproj|c:\\users\\yadir\\proyectos\\angular-en-net\\ejemplos\\desafios\\desafio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F778B51A-592B-4E8F-B039-D6C98F5F4731}|Ejemplos.csproj|solutionrelative:desafios\\desafio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Desafio2.cs",
+              "DocumentMoniker": "C:\\Users\\yadir\\proyectos\\Angular-en-net\\Ejemplos\\Desafios\\Desafio2.cs",
+              "RelativeDocumentMoniker": "Desafios\\Desafio2.cs",
+              "ToolTip": "C:\\Users\\yadir\\proyectos\\Angular-en-net\\Ejemplos\\Desafios\\Desafio2.cs",
+              "RelativeToolTip": "Desafios\\Desafio2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:10:49.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yadir\\proyectos\\Angular-en-net\\Ejemplos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\yadir\\proyectos\\Angular-en-net\\Ejemplos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:03:48.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Desafio1.cs",
+              "DocumentMoniker": "C:\\Users\\yadir\\proyectos\\Angular-en-net\\Ejemplos\\Desafios\\Desafio1.cs",
+              "RelativeDocumentMoniker": "Desafios\\Desafio1.cs",
+              "ToolTip": "C:\\Users\\yadir\\proyectos\\Angular-en-net\\Ejemplos\\Desafios\\Desafio1.cs",
+              "RelativeToolTip": "Desafios\\Desafio1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:03:04.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
