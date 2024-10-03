@@ -1,0 +1,26 @@
+<div class="container">
+    <h1>Búsqueda de Libros</h1>
+
+    <!-- Formulario de búsqueda -->
+    <input
+      [(ngModel)]="searchQuery"
+      type="text"
+      placeholder="Buscar libros por título o autor"
+    />
+    <button (click)="searchBooks()">Buscar</button>
+    
+    <!-- Mostrar los resultados -->
+    <div *ngIf="books.length > 0">
+      <h2>Resultados</h2>
+      <ul class="book-list">
+        <li *ngFor="let book of books">
+          <img *ngIf="book.volumeInfo.imageLinks?.thumbnail" [src]="book.volumeInfo.imageLinks.thumbnail" alt="Portada">
+          <div class="book-info">
+            <h3>{{ book.volumeInfo.title }}</h3>
+            <p><strong>Autor:</strong> {{ book.volumeInfo.authors?.join(', ') || 'No disponible' }}</p>
+            <p><strong>Descripción:</strong> {{ book.volumeInfo.description || 'No disponible' }}</p>
+          </div>
+        </li>
+      </ul>
+    </div>
+</div>

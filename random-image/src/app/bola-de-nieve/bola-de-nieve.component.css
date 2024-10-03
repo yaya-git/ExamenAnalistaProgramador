@@ -1,0 +1,83 @@
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	background-color: #f0f0f0;
+}
+.container {
+    text-align: center;
+  }
+.snowman {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+/* Estilos comunes para las bolas de nieve */
+.snowball {
+	background-color: white;
+	border: 2px solid black;
+	border-radius: 50%;
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+/* Bola inferior */
+.snowball.bottom {
+	width: 200px;
+	height: 200px;
+}
+
+/* Bola del medio */
+.snowball.middle {
+	width: 150px;
+	height: 150px;
+	margin-bottom: -20px; /* Para acercar la bola del medio a la inferior */
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+
+/* Bola superior (cabeza) */
+.snowball.top {
+	width: 100px;
+	height: 100px;
+	margin-bottom: -20px; /* Para acercar la cabeza a la bola del medio */
+}
+
+/* Estilos para los "ojos" */
+.eye {
+	width: 20px;
+	height: 20px;
+	background-color: black;
+	border-radius: 50%;
+	position: absolute;
+}
+
+.left-eye {
+	top: 30%;
+	left: 25%;
+}
+
+.right-eye {
+	top: 30%;
+	right: 25%;
+}
+
+/* Estilos para los "botones" */
+.button {
+	width: 20px;
+	height: 20px;
+	background-color: black;
+	border-radius: 50%;
+}

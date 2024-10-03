@@ -1,0 +1,49 @@
+.container {
+    text-align: center;
+  }
+input {
+    width: 300px;
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .book-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .book-list li {
+    display: flex;
+    align-items: flex-start;
+    margin: 20px 0;
+  }
+  
+  .book-list img {
+    margin-right: 20px;
+    border: 1px solid #ccc;
+    width: 128px;
+    height: 200px;
+  }
+  
+  .book-info {
+    text-align: left;
+  }
+  
+  h3 {
+    margin: 0;
+  }
