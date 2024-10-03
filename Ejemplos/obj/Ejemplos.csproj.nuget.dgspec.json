@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yadir\\proyectos\\Angular-en-net\\Ejemplos\\Ejemplos.csproj": {}
+    "C:\\Users\\yadir\\proyectos\\Examen-analista-programador\\Ejemplos\\Ejemplos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yadir\\proyectos\\Angular-en-net\\Ejemplos\\Ejemplos.csproj": {
+    "C:\\Users\\yadir\\proyectos\\Examen-analista-programador\\Ejemplos\\Ejemplos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yadir\\proyectos\\Angular-en-net\\Ejemplos\\Ejemplos.csproj",
+        "projectUniqueName": "C:\\Users\\yadir\\proyectos\\Examen-analista-programador\\Ejemplos\\Ejemplos.csproj",
         "projectName": "Ejemplos",
-        "projectPath": "C:\\Users\\yadir\\proyectos\\Angular-en-net\\Ejemplos\\Ejemplos.csproj",
+        "projectPath": "C:\\Users\\yadir\\proyectos\\Examen-analista-programador\\Ejemplos\\Ejemplos.csproj",
         "packagesPath": "C:\\Users\\yadir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yadir\\proyectos\\Angular-en-net\\Ejemplos\\obj\\",
+        "outputPath": "C:\\Users\\yadir\\proyectos\\Examen-analista-programador\\Ejemplos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",

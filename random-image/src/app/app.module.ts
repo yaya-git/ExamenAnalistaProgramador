@@ -8,13 +8,15 @@ import { ApiService } from './services/api.service';
 import { BuscarLibrosComponent } from './buscar-libros/buscar-libros.component';
 import { FormsModule } from '@angular/forms';
 import { BolaDeNieveComponent } from './bola-de-nieve/bola-de-nieve.component';
+import { BienvenidosComponent } from './bienvenidos/bienvenidos.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     RandomImagesComponent,
     BuscarLibrosComponent,
-    BolaDeNieveComponent
+    BolaDeNieveComponent,
+    BienvenidosComponent
   ],
   imports: [
     BrowserModule,
